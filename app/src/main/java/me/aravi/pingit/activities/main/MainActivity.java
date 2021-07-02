@@ -1,4 +1,4 @@
-package me.aravi.pingit;
+package me.aravi.pingit.activities.main;
 
 import androidx.appcompat.app.AppCompatActivity;
 

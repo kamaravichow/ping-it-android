@@ -3,4 +3,6 @@
     <string name="default_source_url">1.1.1.1</string>
     <string name="result_toggle_text">Result</string>
     <string name="raw_toggle_text">Raw</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
